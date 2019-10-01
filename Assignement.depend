@@ -1,0 +1,179 @@
+# depslib dependency file v1.0
+1478794738 source:c:\users\luca\desktop\progetto\heuristic.cpp
+	<iostream>
+	<random>
+	<algorithm>
+	"heuristic.h"
+	<cstring>
+	<time.h>
+
+1478787114 c:\users\luca\desktop\progetto\heuristic.h
+	<string>
+	<sstream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<iostream>
+	<list>
+	<map>
+
+1481739795 source:d:\luca\programmi in c\assignement\heuristic.cpp
+	<iostream>
+	<random>
+	<algorithm>
+	"heuristic.h"
+	<cstring>
+	<time.h>
+
+1478787114 d:\luca\programmi in c\assignement\heuristic.h
+	<string>
+	<sstream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<iostream>
+	<list>
+	<map>
+
+1478794256 source:d:\luca\programmi in c\assignement\main.cpp
+	<list>
+	<iostream>
+	<cstring>
+	<string.h>
+	"utils.h"
+	"heuristic.h"
+
+1478787564 d:\luca\programmi in c\assignement\utils.h
+	<string>
+	<vector>
+	<set>
+	<cstring>
+
+1481821635 source:d:\luca\programmi in c\assignement15_11\heuristic.cpp
+	<iostream>
+	<random>
+	<algorithm>
+	"heuristic.h"
+	<cstring>
+	<time.h>
+
+1478787114 d:\luca\programmi in c\assignement15_11\heuristic.h
+	<string>
+	<sstream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<iostream>
+	<list>
+	<map>
+
+1478794256 source:d:\luca\programmi in c\assignement15_11\main.cpp
+	<list>
+	<iostream>
+	<cstring>
+	<string.h>
+	"utils.h"
+	"heuristic.h"
+
+1478787564 d:\luca\programmi in c\assignement15_11\utils.h
+	<string>
+	<vector>
+	<set>
+	<cstring>
+
+1478794256 source:d:\luca\programmiinc\assignement15_11\main.cpp
+	<list>
+	<iostream>
+	<cstring>
+	<string.h>
+	"utils.h"
+	"heuristic.h"
+
+1478787564 d:\luca\programmiinc\assignement15_11\utils.h
+	<string>
+	<vector>
+	<set>
+	<cstring>
+
+1482188451 d:\luca\programmiinc\assignement15_11\heuristic.h
+	<string>
+	<sstream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<iostream>
+	<list>
+	<map>
+
+1482366060 source:d:\luca\programmiinc\assignement15_11\heuristic.cpp
+	<iostream>
+	<random>
+	<algorithm>
+	"heuristic.h"
+	<cstring>
+	<time.h>
+
+1478794256 source:c:\users\isabeau\desktop\assignement22_12\main.cpp
+	<list>
+	<iostream>
+	<cstring>
+	<string.h>
+	"utils.h"
+	"heuristic.h"
+
+1478787564 c:\users\isabeau\desktop\assignement22_12\utils.h
+	<string>
+	<vector>
+	<set>
+	<cstring>
+
+1482849807 c:\users\isabeau\desktop\assignement22_12\heuristic.h
+	<string>
+	<sstream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<iostream>
+	<list>
+	<map>
+
+1482853280 source:c:\users\isabeau\desktop\assignement22_12\heuristic.cpp
+	<iostream>
+	<random>
+	<algorithm>
+	"heuristic.h"
+	<cstring>
+	<time.h>
+
+1483114318 source:d:\luca\programmiinc\assignement22_12\heuristic.cpp
+	<iostream>
+	<random>
+	<algorithm>
+	"heuristic.h"
+	<cstring>
+	<time.h>
+
+1482849807 d:\luca\programmiinc\assignement22_12\heuristic.h
+	<string>
+	<sstream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<iostream>
+	<list>
+	<map>
+
+1478794256 source:d:\luca\programmiinc\assignement22_12\main.cpp
+	<list>
+	<iostream>
+	<cstring>
+	<string.h>
+	"utils.h"
+	"heuristic.h"
+
+1478787564 d:\luca\programmiinc\assignement22_12\utils.h
+	<string>
+	<vector>
+	<set>
+	<cstring>
+
